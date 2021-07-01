@@ -29,12 +29,7 @@
     "webpack-hot-middleware": "^2.16.1"
   },
   "dependencies": {
-    "moment": "^2.17.1",
-    "react-big-calendar": "^0.12.3",
-    "react-bootstrap": "^0.30.7",
-    "react-bootstrap-select": "^0.14.0",
-    "react-datepicker": "^0.40.0",
-    "react-select": "^1.0.0-rc.3",
-    "whatwg-fetch": "^2.0.2"
+  "webpack-dev-server": ">=3.1.11"
+}
   }
 }
